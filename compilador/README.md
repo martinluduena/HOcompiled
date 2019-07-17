@@ -23,4 +23,5 @@ En un archivo de texto `respuestas.md`:
 4. Explicar qué quieren decir los símbolos que se crean en el objeto
 5. ¿En qué se diferencian los símbolos del objeto y del ejecutable?
 
-(siéntanse libres, si quieren, de usar la sintaxis markdown. no hace falta)
+
+
