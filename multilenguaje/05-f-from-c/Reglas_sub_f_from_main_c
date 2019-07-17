@@ -1,0 +1,4 @@
+Llamar a fortran desde un main de c 
+Creo el objeto de fortan
+gfortran -c f-sum.f90 -o f-sum.o
+
